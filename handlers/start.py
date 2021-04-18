@@ -28,7 +28,7 @@ Use the buttons below to know more about me..🔥
             [
                 [
                     InlineKeyboardButton(
-                        "About Me ❤️🔥", url="https://t.me/aboutoxy",
+                        "❤️ About Me ❤️", url="https://t.me/aboutoxy",
                     )
                 ],
                 [
