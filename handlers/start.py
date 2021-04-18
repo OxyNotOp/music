@@ -33,7 +33,7 @@ Use the buttons below to know more about me..🔥
                 ],
                 [
                     InlineKeyboardButton(
-                        "Official Group ❤️🔥", url="https://t.me/X_F0RCE_TEAM"
+                        "Official Group 🔥", url="https://t.me/X_F0RCE_TEAM"
                     ),
                     InlineKeyboardButton(
                         "My Creator 😎", url="https://t.me/FallenAngel_xD"
