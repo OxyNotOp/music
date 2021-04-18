@@ -9,7 +9,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~ filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAIp9mBtwBBZGywWEmV-WC8gcMArjusuAAKMAgACTp1xV6m-mtC1YTfoHgQ")
+    await message.reply_sticker("CAADBQADmgIAAs2-EFcJo2Z-35gyLgI")
     await message.reply_text(
         f"""<b>Hey {message.from_user.first_name}! Hii
 I am powerful VC music Bot..🔥
@@ -28,15 +28,15 @@ Use the buttons below to know more about me..🔥
             [
                 [
                     InlineKeyboardButton(
-                        "Music World 🌍", url="https://t.me/wearefriendscircle",
+                        "About Me ❤️🔥", url="https://t.me/aboutoxy",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Official Clan 🔥", url="https://t.me/weopsecretfighters"
+                        "Official Group ❤️🔥", url="https://t.me/X_F0RCE_TEAM"
                     ),
                     InlineKeyboardButton(
-                        "My Creator 😎", url="https://t.me/idanishbaba"
+                        "My Creator 😎", url="https://t.me/FallenAngel_xD"
                     ),
                     InlineKeyboardButton(
                         "⚔️ Commands", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
