@@ -39,7 +39,7 @@ Use the buttons below to know more about me..🔥
                         "My Creator 😎", url="https://t.me/FallenAngel_xD"
                     ),
                     InlineKeyboardButton(
-                        "Commands ⚔️", url="https://telegra.ph/𝕐𝖔𝖚𝖗---𝕯𝖆𝖉𝖉𝕪-ꗄ-04-18-3"
+                        "Commands ⚔️", url="https://telegra.ph/%F0%9D%95%90%F0%9D%96%94%F0%9D%96%9A%F0%9D%96%97---%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%89%F0%9D%96%89%F0%9D%95%AA-%EA%97%84-04-18-8"
                     )
                 ],
                 [
