@@ -1,4 +1,4 @@
-![Music Bot](https://telegra.ph/file/0708a712dfe4fde8bf4ec.jpg)
+![Music Bot](https://telegra.ph/file/b50ee7f8af4a3b35213d0.jpg)
 <h2 align="centre">Music Play Bot 🎵</h2>
 
 <h3>Requirements 📝</h3>
