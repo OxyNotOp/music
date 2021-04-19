@@ -16,5 +16,5 @@ Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to 
 
 ## Credits
 
-- [Oxy](https://github.com/OxyNotOp) & [Munna](https://github.com/xxMUNNAxx): PyTgCalls
+- [Munna](https://github.com/xxMUNNAxx) & [Lucifer](https://github.com/dineshpamnani860): PyTgCalls
 - [Original Repo](https://github.com/OxyNotOp/music)
